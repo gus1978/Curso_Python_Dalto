@@ -1,0 +1,28 @@
+{
+    "cSpell.words": [
+        "automatización",
+        "chromedriver",
+        "Creando",
+        "Espero",
+        "funcion",
+        "geckodriver",
+        "hayas",
+        "Historia",
+        "Hola",
+        "lista",
+        "maravilloso",
+        "mascotas",
+        "muestre",
+        "numero",
+        "paquete",
+        "resultado",
+        "saludar",
+        "saludo",
+        "serie",
+        "tenido"
+    ],
+    "python.analysis.extraPaths": [
+        "./modulos/funciones_buenas",
+        "./funciones_buenas"
+    ]
+}
